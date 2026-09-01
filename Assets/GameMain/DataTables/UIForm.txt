@@ -1,0 +1,12 @@
+﻿#	界面配置表					
+#	Id		AssetName	UIGroupName	AllowMultiInstance	PauseCoveredUIForm
+#	int		string	string	bool	bool
+#	界面编号	策划备注	资源名称	界面组名称	是否允许多个界面实例	是否暂停被其覆盖的界面
+	1	弹出框	DialogForm	Default	TRUE	FALSE
+	100	主菜单	MenuForm	Default	FALSE	FALSE
+	101	Timeline1	StorylineForm	Default	FALSE	FALSE
+	102	Timeline2	EndForm1	Default	FALSE	FALSE
+	103	Timeline3	EndForm2	Default	FALSE	FALSE
+	104	Timeline4	EndForm3	Default	FALSE	FALSE
+	105	暂停	PauseForm	Default	FALSE	FALSE
+	106	游戏UI	GameForm	Default	FALSE	FALSE

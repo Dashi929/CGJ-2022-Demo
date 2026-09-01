@@ -1,0 +1,13 @@
+﻿#	声音配置表							
+#	Id		AssetName	Priority	Loop	Volume	SpatialBlend	MaxDistance
+#	int		string	int	bool	float	float	float
+#	声音编号	策划备注	资源名称	优先级（默认0，128最高，-128最低）	是否循环	音量（0~1）	声音空间混合量（0为2D，1为3D，中间值混合效果）	声音最大距离
+	10000	楼板落地	FloorColide	0	FALSE	1	0	100
+	10001	弹起	Bounce	0	FALSE	1	0	100
+	10002	方块出现掉落	ShowSquare	0	FALSE	1	0	100
+	10003	方块掉落碰撞	SquareCollide	0	FALSE	1	0	100
+	20001	显示UI	ShowUI	0	FALSE	1	0	100
+	30001		OhNo	0	FALSE	1	0	100
+	30002		OhNo2	0	FALSE	1	0	100
+	30003		PuTong	0	FALSE	1	0	100
+	30004		Run	0	FALSE	1	0	100

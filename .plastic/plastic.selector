@@ -1,0 +1,4 @@
+repository "CGJ2022Demo@Dashi919@cloud"
+  path "/"
+    br "/main"
+    co "/main"

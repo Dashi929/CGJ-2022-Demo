@@ -1,0 +1,6 @@
+﻿#	配置		
+#	ID	TargetFloorNum	EndName
+#	int	int	string
+	0	6	Sample
+	1	10	Sample
+	2	15	Sample

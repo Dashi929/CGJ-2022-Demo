@@ -1,0 +1,4 @@
+﻿#	配置				
+#	ID	DialogType	DialogText	DialogShowTime	DialogIntervalTime
+#	int	int	string	float	float
+	0	0	sample	0	0

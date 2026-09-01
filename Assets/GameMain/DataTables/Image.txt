@@ -1,0 +1,4 @@
+﻿#	图像表	
+#	ID	ImageName
+#	int	string
+	0	Sample
